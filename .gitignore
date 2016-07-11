@@ -1,0 +1,4 @@
+# Files that might appear on external disk
+node_modules/
+client/lib
+server/db.js
